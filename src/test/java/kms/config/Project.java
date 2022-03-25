@@ -1,4 +1,4 @@
-package cloud.autotests.config;
+package kms.config;
 
 import org.aeonbits.owner.ConfigFactory;
 

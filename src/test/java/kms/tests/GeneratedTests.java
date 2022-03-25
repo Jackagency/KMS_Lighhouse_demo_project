@@ -1,6 +1,6 @@
-package cloud.autotests.tests;
+package kms.tests;
 
-import cloud.autotests.helpers.DriverUtils;
+import kms.helpers.DriverUtils;
 import io.qameta.allure.Description;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
