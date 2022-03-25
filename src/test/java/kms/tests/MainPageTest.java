@@ -176,7 +176,7 @@ public class MainPageTest extends TestBase {
     @Test
     @Description("Main UI checks")
     @DisplayName("eBook search test")
-    void ebookSearchTest() {
+    void ebookSearchTest(){
         step("Open https://www.kmslh.com/", () -> {
             open("https://www.kmslh.com/");
         });
