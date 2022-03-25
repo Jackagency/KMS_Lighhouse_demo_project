@@ -58,7 +58,7 @@ public class MainPageTest extends TestBase {
 
     @Test
     @Description("Main UI checks")
-    @DisplayName("Self Service title check")
+    @DisplayName("Branches & Stores title check")
     void branchesStoresTest() {
         step("Open https://www.kmslh.com/", () -> {
             open("https://www.kmslh.com/");
@@ -79,7 +79,7 @@ public class MainPageTest extends TestBase {
 
     @Test
     @Description("Main UI checks")
-    @DisplayName("Self Service title check")
+    @DisplayName("Tech Support title check")
     void techSupportTest() {
         step("Open https://www.kmslh.com/", () -> {
             open("https://www.kmslh.com/");

@@ -22,14 +22,16 @@
 > UI autotests developed <code>UI</code>.
 ### UI
 
-- [x] Work page title test
-- [x] No errors in page console log
-- [x] Page title should have header text
-- [x] Blog page title test
-- [x] Service page title test
-- [x] Job page title test
-- [x] Berlin office address information verification
-- [x] Zurich office address information verification
+- [x] Call Center title check
+- [x] Self Service title check
+- [x] Branches & Stores
+- [x] Tech Support title check
+- [x] Video search test
+- [x] Article search test
+- [x] Blog search test
+- [x] eBook search test
+- [x] Page title test
+- [x] Page console test
 
 ## :classical_building: Technology stack
 
