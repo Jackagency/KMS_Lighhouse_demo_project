@@ -1,4 +1,4 @@
-#King test automation project
+#KMS Lighthouse test automation project
 
 ## :page_with_curl:	Content
 
